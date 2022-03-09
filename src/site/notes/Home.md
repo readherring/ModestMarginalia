@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"tags":"gardenEntry"}
+{"dg-home":true,"dg-publish":true,"tags":["gardenEntry","gardenEntry"]}
 ---
 
 Welcome to my site! This is my 'digital garden' - basically a public place to publish notes and thoughts. A kind of curated wiki for my life and a means of categorising the things which I spend my time working on. 
